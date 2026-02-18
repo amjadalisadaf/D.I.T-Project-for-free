@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Portfolio Generator",
+  "description": "A portfolio website for Muskan Khan, a DIT student. This app uses the Gemini API with Google Search grounding to dynamically generate 'About Me' and 'Projects' sections based on real-time information.",
+  "requestFramePermissions": []
+}
